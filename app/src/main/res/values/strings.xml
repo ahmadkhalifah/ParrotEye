@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ParrotEye</string>
+    <string name="btnScanner">START</string>
+    <string name="edtSearch"></string>
 </resources>
